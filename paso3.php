@@ -5,7 +5,7 @@
 <head>
 
     <?php include("includes/head.php")  ;?> 
-    <title>Formulario</title>
+    <title><?php echo $headTitle . '(3/3)';?></title>
 </head>
 <body>
     <!-- header -->

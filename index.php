@@ -6,7 +6,7 @@ $_SESSION['navegador'] = $_SERVER['HTTP_USER_AGENT']; ?>
 <head>
 
     <?php include("includes/head.php")  ;?> 
-    <title> - Paso 1</title>
+    <title><?php echo $headTitle . '(1/3)';?></title>
 </head>
 <body>
     <!-- header -->

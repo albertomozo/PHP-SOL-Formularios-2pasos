@@ -4,8 +4,9 @@
 <html lang="es">
 <head>
 
-    <?php include("includes/head.php")  ;?> 
-    <title>Formulario</title>
+    <?php include("includes/head.php")  ;?>
+    
+    <title><?php echo $headTitle . '(1/3)';?></title>
 </head>
 <body>
     <!-- header -->

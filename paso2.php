@@ -5,7 +5,7 @@
 <head>
 
     <?php include("includes/head.php")  ;?> 
-    <title> - Paso 1</title>
+    <title><?php echo $headTitle . '(2/3)';?></title>
 </head>
 <body>
     <!-- header -->
