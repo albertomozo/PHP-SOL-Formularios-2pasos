@@ -6,7 +6,7 @@
 
     <?php include("includes/head.php")  ;?> 
     <title><?php echo $headTitle . '(3/3)';?></title>
-</head>
+</head
 <body>
     <!-- header -->
     <?php include ("includes/cabecera.php"); ?>
