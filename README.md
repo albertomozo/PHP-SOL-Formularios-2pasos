@@ -34,7 +34,7 @@ copas de **modelo.php** con sus particularidades.
 ### caducada.php 
 Página a la que redirigimos cuando se cierra la sessión o intentanis aceder sin pasar por la primera página
 ## Flujo
-![enter image description here](https://github.com/albertomozo/PHP-SOL-Formularios-2pasos/_doc/FORMUsESION.drawio.png)
+![diagrama de flujo](./_doc/FORMUsESION.drawio.png)
 
 
   
