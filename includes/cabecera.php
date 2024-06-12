@@ -1,7 +1,7 @@
 <header>
         <div>
             <h1>Formulario 2 pasos</h1>
-            <a href="">CERRAR</a>
+            <a href="session_cerrar.php">CERRAR</a>
         </div>
         
         <ul class="pasos">
